@@ -16,6 +16,6 @@ A simple, general-purpose, file-based cache provider
 ?>
 ```
 
-###Licensing
+### Licensing
 
 This software is released under the MIT license.
